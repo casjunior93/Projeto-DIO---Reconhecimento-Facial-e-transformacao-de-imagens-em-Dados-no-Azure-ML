@@ -31,3 +31,19 @@ Em seguida, tentei fazer um [teste](https://learn.microsoft.com/en-us/azure/ai-s
 [Clique aqui](Detecção_de_Faces_com_Face_API.ipynb) para ver o notebook que comecei para testar o Face API com Python.
 
 Saiba mais sobre a limitação de API: [Recursos de Acesso Limitado para os serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-limited-access)
+
+## Passo 2: Criando recurso do Computer vision no Azure AI Services para detecção de texto em imagens
+
+Primeiro precisei criar um recurso de Computer vision dentro Azure Ai Services.
+
+![Img](./img/img4.gif)
+
+Após o recurso ter sido criado, acessei o [Portal de Visão do Azure](https://portal.vision.cognitive.azure.com/gallery/featured). Na página inicial, acessei a aba "Optical character recognition" e cliquei em "Extract text from images".
+
+Na próxima página, em "Try it out", precisei informar o recurso criado anteriormente no Portal do Azure para testar. Então subi uma capa de um livro e consegui obter todas as palavras nela.
+
+![Img](./img/img5.gif)
+
+Este foi o resultado:
+
+![Img](./outputs/OCR/Captura%20de%20tela%202024-02-10%20172337.png)
