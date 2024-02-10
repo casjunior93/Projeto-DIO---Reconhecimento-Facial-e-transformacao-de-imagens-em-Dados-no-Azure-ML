@@ -26,7 +26,7 @@ Então subi uma foto minha e consegui obter o resultado do teste.
 
 ![Img](./img/img3.gif)
 
-Em seguida, tentei fazer um teste usando Python para acessar o serviço, porém não consegui terminar pois é necessário ser cliente ou um dos parceiros gerenciados pela Microsoft. Para ser aprovado, é necessário enviar o seguinte formulário e esperar a aprovação: [http://aka.ms/facerecognition](http://aka.ms/facerecognition).
+Em seguida, tentei fazer um [teste](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-python) usando Python para acessar o serviço, porém não consegui terminar pois é necessário ser cliente ou um dos parceiros gerenciados pela Microsoft. Para ser aprovado, é necessário enviar o seguinte formulário e esperar a aprovação: [http://aka.ms/facerecognition](http://aka.ms/facerecognition).
 
 [Clique aqui](Detecção_de_Faces_com_Face_API.ipynb) para ver o notebook que comecei para testar o Face API com Python.
 
