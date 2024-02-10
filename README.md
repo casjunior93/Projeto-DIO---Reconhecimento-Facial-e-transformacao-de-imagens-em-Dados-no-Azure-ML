@@ -12,7 +12,7 @@ Links importantes:
 
 ## Passo 1: Criando recurso do Face API no Azure AI Services para detecção de faces humanas
 
-Primeiro precisei criar um recurso de Face API dentro Azure Ai Services.
+Primeiro precisei criar um recurso de Face API dentro do Azure AI Services.
 
 ![Img](./img/img1.gif)
 
@@ -57,3 +57,9 @@ Para isso, usei o mesmo recurso de Computer vision criado para o passo 2. na aba
 Resultado:
 
 ![Img](./outputs/Legendas/Captura%20de%20tela%202024-02-10%20174548.png)
+
+## Passo 4: Excluir recursos após utilizá-los
+
+Nesse passo, simplesmente exclui o recurso de Computer vision para evitar cobranças surpresas.
+
+![Img](./img/img7.gif)
