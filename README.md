@@ -1,16 +1,16 @@
-# Trabalhando com Machine Learning na Prática no Azure ML
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-Passo a passo do projeto Trabalhando com Machine Learning na Prática no Azure ML da DIO.
+Passo a passo do desafio de projeto "Reconhecimento Facial e transformação de imagens em Dados no Azure ML" da DIO.
 
 Links importantes:
 
-[Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
+[Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
 
-[Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
+[Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
 
-[Fonte dos dados](https://aka.ms/bike-rentals) ou [link direto para os dados](https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-fundamentals/main/data/ml/daily-bike-share.csv)
+[Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
-## Passo 1: Criando recurso do Face API no Azure AI Services
+## Passo 1: Criando recurso do Face API no Azure AI Services para detecção de faces humanas
 
 Primeiro precisei criar um recurso de Face API dentro Azure Ai Services.
 
