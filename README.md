@@ -47,3 +47,13 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 Este foi o resultado:
 
 ![Img](./outputs/OCR/Captura%20de%20tela%202024-02-10%20172337.png)
+
+## Passo 3: Adicionando legendas em imagens
+
+Para isso, usei o mesmo recurso de Computer vision criado para o passo 2. na aba "Featured", cliquei em "Add captions to images". O recurso já estava marcado, então pude testar diretamente.
+
+![Img](./img/img6.gif)
+
+Resultado:
+
+![Img](./outputs/Legendas/Captura%20de%20tela%202024-02-10%20174548.png)
